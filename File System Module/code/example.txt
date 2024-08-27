@@ -1,0 +1,2 @@
+It creates a new file or overwrites an existing one.
+This line will be appended with the text present in example.txt
